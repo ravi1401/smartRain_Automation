@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [SmokeSuite]" guice-stage="DEVELOPMENT">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="appUrl" value="https://uat.smartrain.net/"/>
+  <listeners>
+    <listener class-name="com.lib.ExtentReportNG"/>
+    <listener class-name="com.lib.TestNGCustomReportListener"/>
+    <listener class-name="com.lib.RetryListener"/>
+  </listeners>
+  <test thread-count="5" parallel="tests" name="SmartRain Smoke(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="appUrl" value="https://stage.smartrain.net/"/>
+    <classes>
+      <class name="smrtRain.programs.ProgramTests">
+        <methods>
+          <include name="addSmrtWateringProgram"/>
+          <include name="addNewRegularWateringProgram"/>
+          <include name="openBrowser"/>
+          <include name="updateExistingProgram"/>
+          <include name="validateProgramWithSameConfig"/>
+        </methods>
+      </class> <!-- smrtRain.programs.ProgramTests -->
+      <class name="smrtRain.programs.SmartETTests">
+        <methods>
+          <include name="smartET_CreateNormalProgram"/>
+          <include name="smartET_CycleSoak"/>
+          <include name="smartET_SmartStack"/>
+          <include name="openBrowser"/>
+          <include name="smartET_verifyDefaultETValues"/>
+        </methods>
+      </class> <!-- smrtRain.programs.SmartETTests -->
+      <class name="smrtRain.advanceConfig.AdvanceConfigTests">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="verifySoilTypeDetermineForSandyLoam"/>
+        </methods>
+      </class> <!-- smrtRain.advanceConfig.AdvanceConfigTests -->
+      <class name="smrtRain.sites.TwoWireTests">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="addZoneWithMaxZoneNumber"/>
+        </methods>
+      </class> <!-- smrtRain.sites.TwoWireTests -->
+      <class name="smrtRain.programs.RunProgramTests">
+        <methods>
+          <include name="openBrowser"/>
+          <include name="runProgramForFullTime"/>
+          <include name="zonesDetails_StartTiggerFor2Minutes"/>
+        </methods>
+      </class> <!-- smrtRain.programs.RunProgramTests -->
+      <class name="smrtRain.activityLogs.ActivityLogsTest">
+        <methods>
+          <include name="log_HandlePackets"/>
+          <include name="openBrowser"/>
+          <include name="log_SearchByCatgeory"/>
+        </methods>
+      </class> <!-- smrtRain.activityLogs.ActivityLogsTest -->
+      <class name="smrtRain.sites.SitesTests">
+        <methods>
+          <include name="addZoneWithSprayType"/>
+          <include name="addZonesToSite"/>
+          <include name="openBrowser"/>
+          <include name="validateNewSiteFields"/>
+        </methods>
+      </class> <!-- smrtRain.sites.SitesTests -->
+    </classes>
+  </test> <!-- SmartRain Smoke(failed) -->
+</suite> <!-- Failed suite [SmokeSuite] -->

@@ -1,0 +1,2303 @@
+2022-11-15 12:08:51,264 INFO  [Logger] Enter into loginWithValidCredentials() tests. 
+2022-11-15 12:08:51,269 INFO  [Logger] Enter into loginCredenditals() method 
+2022-11-15 12:08:51,496 INFO  [Logger] LOGIN element is present 
+2022-11-15 12:09:01,567 INFO  [Logger] HOME element is present 
+2022-11-15 12:09:11,587 INFO  [Logger] Entered into verifyAddedZonesInLogs() test. 
+2022-11-15 12:09:18,596 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 12:09:18,634 INFO  [Logger]  element is present 
+2022-11-15 12:09:18,911 INFO  [Logger] HOME element is present 
+2022-11-15 12:09:19,174 INFO  [Logger] HOME element is present 
+2022-11-15 12:09:19,435 INFO  [Logger] HOME element is present 
+2022-11-15 12:09:19,750 INFO  [Logger] ALERTS element is present 
+2022-11-15 12:09:20,010 INFO  [Logger] ALERTS element is present 
+2022-11-15 12:09:20,351 INFO  [Logger] REPORTS element is present 
+2022-11-15 12:09:30,398 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 12:09:30,436 INFO  [Logger]  element is present 
+2022-11-15 12:09:30,768 INFO  [Logger] HOME element is present 
+2022-11-15 12:09:31,090 INFO  [Logger] SITES element is present 
+2022-11-15 12:09:41,131 INFO  [Logger] Entered into selectExistingSite() method. 
+2022-11-15 12:09:47,179 INFO  [Logger]  element is present 
+2022-11-15 12:09:47,555 INFO  [Logger] SR INDIA TULASI (2229) element is present 
+2022-11-15 12:10:02,868 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:10:04,448 INFO  [Logger]  element is present 
+2022-11-15 12:10:04,863 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:10:04,893 INFO  [Logger]  element is present 
+2022-11-15 12:10:05,378 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 12:10:05,424 INFO  [Logger] (1) GREEN ROTOR 2 element is present 
+2022-11-15 12:10:05,673 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 12:10:05,713 INFO  [Logger] EDIT element is present 
+2022-11-15 12:10:06,021 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 12:10:06,272 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 12:10:06,353 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 12:10:13,642 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 12:10:13,676 INFO  [Logger] (6) DRIP 29 element is present 
+2022-11-15 12:10:13,917 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 12:10:13,950 INFO  [Logger] EDIT element is present 
+2022-11-15 12:10:14,235 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 12:10:14,473 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 12:10:14,546 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 12:10:21,821 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 12:10:21,854 INFO  [Logger] (7) Z7 element is present 
+2022-11-15 12:10:22,094 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 12:10:22,127 INFO  [Logger] EDIT element is present 
+2022-11-15 12:10:22,410 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 12:10:22,652 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 12:10:22,734 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 12:10:29,999 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 12:10:30,002 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 12:10:30,463 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 12:10:30,952 INFO  [Logger] Entered into irrigationType() method. 
+2022-11-15 12:10:30,992 INFO  [Logger] WATER IRRIGATION TYPE* element is present 
+2022-11-15 12:10:31,052 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 12:10:31,096 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 12:10:31,430 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 12:10:31,476 INFO  [Logger] ADD element is present 
+2022-11-15 12:10:31,716 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 12:10:41,754 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 12:10:48,991 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:10:49,024 INFO  [Logger]  element is present 
+2022-11-15 12:10:49,275 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 12:10:49,277 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 12:10:49,726 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 12:10:50,246 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 12:10:50,295 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 12:10:50,619 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 12:10:50,656 INFO  [Logger] ADD element is present 
+2022-11-15 12:10:50,887 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 12:11:00,923 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 12:11:08,159 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:11:08,194 INFO  [Logger]  element is present 
+2022-11-15 12:11:08,444 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 12:11:08,446 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 12:11:08,922 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 12:11:09,434 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 12:11:09,483 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 12:11:09,806 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 12:11:09,839 INFO  [Logger] ADD element is present 
+2022-11-15 12:11:10,076 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 12:11:20,110 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 12:11:27,342 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:11:27,374 INFO  [Logger]  element is present 
+2022-11-15 12:11:27,621 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 12:11:27,622 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 12:11:28,048 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 12:11:28,546 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 12:11:28,589 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 12:11:28,890 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 12:11:28,927 INFO  [Logger] ADD element is present 
+2022-11-15 12:11:29,158 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 12:11:29,160 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 12:11:39,192 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 12:11:46,425 INFO  [Logger] Entered into getZoneNumber() method. 
+2022-11-15 12:11:46,457 INFO  [Logger] (1) GREEN ROTOR 58 element is present 
+2022-11-15 12:11:47,800 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:11:47,830 INFO  [Logger]  element is present 
+2022-11-15 12:11:48,181 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 12:11:52,228 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 2:41 AM
+success
+SEE PACKET element is present 
+2022-11-15 12:11:52,282 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 12:11:56,340 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 2:41 AM
+success
+SEE PACKET element is present 
+2022-11-15 12:11:56,395 INFO  [Logger] Entered into selectPacketFromLogsTable() method. 
+2022-11-15 12:11:56,437 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 2:41 AM
+success
+SEE PACKET element is present 
+2022-11-15 12:11:56,719 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 12:11:56,759 INFO  [Logger] { "packet_type": "flow_limit", "timestamp": [ 2022, 11, 15, 6, 41, 29 ], "msg_id": 1343374, "zone": 4, "flow_limit": 0.2 } element is present 
+2022-11-15 12:11:56,770 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 12:11:56,810 INFO  [Logger] { "packet_type": "flow_limit", "timestamp": [ 2022, 11, 15, 6, 41, 29 ], "msg_id": 1343374, "zone": 4, "flow_limit": 0.2 } element is present 
+2022-11-15 12:11:56,820 INFO  [Logger] Entered into closePacket() method. 
+2022-11-15 12:11:58,850 INFO  [Logger] OK element is present 
+2022-11-15 12:11:59,081 INFO  [Logger] Entered into addNewRegularWateringProgram() test. 
+2022-11-15 12:12:06,086 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 12:12:06,122 INFO  [Logger]  element is present 
+2022-11-15 12:12:06,483 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 12:12:10,532 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 15:37:42,154 INFO  [Logger] Enter into loginWithValidCredentials() tests. 
+2022-11-15 15:37:42,177 INFO  [Logger] Enter into loginCredenditals() method 
+2022-11-15 15:37:42,498 INFO  [Logger] LOGIN element is present 
+2022-11-15 15:37:52,582 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:02,609 INFO  [Logger] Entered into verifyAddedZonesInLogs() test. 
+2022-11-15 15:38:09,617 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:38:09,670 INFO  [Logger]  element is present 
+2022-11-15 15:38:09,818 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:09,909 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:10,015 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:10,142 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:10,243 INFO  [Logger] ALERTS element is present 
+2022-11-15 15:38:10,379 INFO  [Logger] REPORTS element is present 
+2022-11-15 15:38:20,432 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:38:20,485 INFO  [Logger]  element is present 
+2022-11-15 15:38:20,620 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:20,794 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:20,900 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:20,986 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:21,057 INFO  [Logger] ALERTS element is present 
+2022-11-15 15:38:21,156 INFO  [Logger] REPORTS element is present 
+2022-11-15 15:38:21,234 INFO  [Logger] REPORTS element is present 
+2022-11-15 15:38:21,381 INFO  [Logger] HOME element is present 
+2022-11-15 15:38:21,409 INFO  [Logger] Entered into addNewRegularWateringProgram() test. 
+2022-11-15 15:38:28,416 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:39:30,057 INFO  [Logger] Enter into loginWithValidCredentials() tests. 
+2022-11-15 15:39:30,062 INFO  [Logger] Enter into loginCredenditals() method 
+2022-11-15 15:39:30,336 INFO  [Logger] LOGIN element is present 
+2022-11-15 15:39:40,444 INFO  [Logger] HOME element is present 
+2022-11-15 15:39:50,470 INFO  [Logger] Entered into verifyAddedZonesInLogs() test. 
+2022-11-15 15:39:57,480 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:39:57,528 INFO  [Logger]  element is present 
+2022-11-15 15:39:57,658 INFO  [Logger] HOME element is present 
+2022-11-15 15:39:57,733 INFO  [Logger] HOME element is present 
+2022-11-15 15:39:57,825 INFO  [Logger] HOME element is present 
+2022-11-15 15:39:57,942 INFO  [Logger] ALERTS element is present 
+2022-11-15 15:39:58,075 INFO  [Logger] ALERTS element is present 
+2022-11-15 15:39:58,214 INFO  [Logger] REPORTS element is present 
+2022-11-15 15:40:08,255 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:40:08,293 INFO  [Logger]  element is present 
+2022-11-15 15:40:08,454 INFO  [Logger] HOME element is present 
+2022-11-15 15:40:08,645 INFO  [Logger] SITES element is present 
+2022-11-15 15:40:18,676 INFO  [Logger] Entered into selectExistingSite() method. 
+2022-11-15 15:40:24,722 INFO  [Logger]  element is present 
+2022-11-15 15:40:35,070 INFO  [Logger] Failed!! Unable to wait on this element //div[@class='card site_boxs ng-star-inserted']//div[@class='site-name-style'] 
+2022-11-15 15:40:45,093 INFO  [Logger] Entered into addNewRegularWateringProgram() test. 
+2022-11-15 15:40:52,097 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:41:02,376 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:41:02,390 INFO  [Logger] Entered into addSmrtWateringProgram() test. 
+2022-11-15 15:41:02,393 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:41:12,904 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:41:12,914 INFO  [Logger] Entered into validateProgramWithSameConfig() test. 
+2022-11-15 15:41:15,918 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:41:26,165 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:41:26,175 INFO  [Logger] Entered into programOverlapStartOrEndTimes() test. 
+2022-11-15 15:41:33,183 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:41:43,422 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:41:43,442 INFO  [Logger] Entered into updateExistingProgram() test. 
+2022-11-15 15:41:43,448 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:41:53,709 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:41:53,720 INFO  [Logger] Entered into program_ValidateSeasonalAdjustment() test. 
+2022-11-15 15:41:53,722 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:42:03,960 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:42:03,970 INFO  [Logger] Entered into program_ValidateWarningMessages() test. 
+2022-11-15 15:42:03,973 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:42:14,211 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:42:14,221 INFO  [Logger] Entered into deleteAllPrograms() test. 
+2022-11-15 15:42:14,223 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:42:24,497 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:42:24,535 INFO  [Logger] Entered into deleteZones() test. 
+2022-11-15 15:42:24,574 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:42:34,795 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:42:34,804 INFO  [Logger] Entered into smartET_CreateNormalProgram() test. 
+2022-11-15 15:42:44,809 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:42:55,047 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:42:55,058 INFO  [Logger] Entered into smartET_verifyDefaultETValues() test. 
+2022-11-15 15:42:55,060 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:05,307 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:05,317 INFO  [Logger] Entered into smartET_BucketValue() test. 
+2022-11-15 15:43:05,319 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:15,551 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:15,561 INFO  [Logger] Entered into smartET_CycleSoak() test. 
+2022-11-15 15:43:15,564 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:25,804 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:25,813 INFO  [Logger] Entered into smartET_RainOverRide() test. 
+2022-11-15 15:43:25,816 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:36,051 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:36,061 INFO  [Logger] Entered into smartET_SmartStack() test. 
+2022-11-15 15:43:36,064 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:46,307 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:46,316 INFO  [Logger] Entered into smartEt_GWLandMADBasedOnFC() test. 
+2022-11-15 15:43:46,318 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:43:56,563 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:43:56,573 INFO  [Logger] Entered into smartET_ProgamOff() test. 
+2022-11-15 15:43:56,575 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:44:06,814 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:44:06,824 INFO  [Logger] Entered into smartEt_IncrmentOrDecrement() test. 
+2022-11-15 15:44:06,827 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:44:17,068 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:44:17,080 INFO  [Logger] Entered into smartET_ValidateIAandIAM() test. 
+2022-11-15 15:44:17,082 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:44:27,308 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:44:27,316 INFO  [Logger] Entered into smartET_MultiRunTimes() test. 
+2022-11-15 15:44:27,318 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:44:37,563 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:44:37,573 INFO  [Logger] Entered into smartET_SmartStackWithCycleSoak() test. 
+2022-11-15 15:44:37,575 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:44:47,802 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:44:47,811 INFO  [Logger] Entered into smartStackWithMultipleRunTimes() test. 
+2022-11-15 15:44:51,817 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:45:02,045 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:45:02,054 INFO  [Logger] Entered into stack_UpdateProgramByAddingZones() test. 
+2022-11-15 15:45:09,061 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:45:19,309 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:45:19,318 INFO  [Logger] Entered into stack_ManualStackOn() test. 
+2022-11-15 15:45:19,320 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:45:29,554 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:45:29,562 INFO  [Logger] Entered into deleteZoneWhichAssignedToProgram() test. 
+2022-11-15 15:45:29,564 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:45:39,792 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:45:39,800 INFO  [Logger] Entered into stack_ValidateOverTheMaxFlow() test. 
+2022-11-15 15:45:46,805 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:45:57,043 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:45:57,055 INFO  [Logger] Entered into runProgramForFullTime() test. 
+2022-11-15 15:46:07,059 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:46:17,279 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:46:17,288 INFO  [Logger] Entered into runProgramForOtherConfiguredMinutes() test. 
+2022-11-15 15:46:17,291 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:46:27,527 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:46:27,536 INFO  [Logger] Entered into runProgram_ValidateAlertsOfOthers() test. 
+2022-11-15 15:46:27,538 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:46:37,773 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:46:37,783 INFO  [Logger] Entered into zonesDetails_StartTiggerFor2Minutes() test. 
+2022-11-15 15:46:37,785 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:46:48,026 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:46:48,035 INFO  [Logger] Entered into runSelectedZonesFor2Minutes() test. 
+2022-11-15 15:46:48,037 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:46:58,257 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:46:58,266 INFO  [Logger] Entered into runZonesFor1Minute() test. 
+2022-11-15 15:46:58,268 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:47:08,503 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-15 15:51:20,833 INFO  [Logger] Enter into loginWithValidCredentials() tests. 
+2022-11-15 15:51:20,840 INFO  [Logger] Enter into loginCredenditals() method 
+2022-11-15 15:51:21,115 INFO  [Logger] LOGIN element is present 
+2022-11-15 15:51:31,207 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:41,239 INFO  [Logger] Entered into verifyAddedZonesInLogs() test. 
+2022-11-15 15:51:48,247 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:51:48,295 INFO  [Logger]  element is present 
+2022-11-15 15:51:48,429 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:48,518 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:48,610 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:48,724 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:48,871 INFO  [Logger] ALERTS element is present 
+2022-11-15 15:51:49,008 INFO  [Logger] REPORTS element is present 
+2022-11-15 15:51:59,052 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-15 15:51:59,089 INFO  [Logger]  element is present 
+2022-11-15 15:51:59,278 INFO  [Logger] HOME element is present 
+2022-11-15 15:51:59,439 INFO  [Logger] SITES element is present 
+2022-11-15 15:52:09,466 INFO  [Logger] Entered into selectExistingSite() method. 
+2022-11-15 15:52:15,517 INFO  [Logger]  element is present 
+2022-11-15 15:52:15,816 INFO  [Logger] SR INDIA TULASI (2229) element is present 
+2022-11-15 15:52:30,968 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:52:32,658 INFO  [Logger]  element is present 
+2022-11-15 15:52:32,902 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:52:32,948 INFO  [Logger]  element is present 
+2022-11-15 15:52:33,162 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 15:52:33,250 INFO  [Logger] (1) GREEN ROTOR 74 element is present 
+2022-11-15 15:52:33,321 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 15:52:33,364 INFO  [Logger] EDIT element is present 
+2022-11-15 15:52:33,632 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 15:52:33,700 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 15:52:34,265 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 15:52:41,371 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 15:52:41,403 INFO  [Logger] (10) GREEN ROTOR 51 element is present 
+2022-11-15 15:52:41,458 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 15:52:41,497 INFO  [Logger] EDIT element is present 
+2022-11-15 15:52:41,664 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 15:52:41,718 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 15:52:42,281 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 15:52:49,352 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 15:52:49,387 INFO  [Logger] (11) SPRAY 1419 element is present 
+2022-11-15 15:52:49,443 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 15:52:49,483 INFO  [Logger] EDIT element is present 
+2022-11-15 15:52:49,650 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 15:52:49,703 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 15:52:50,277 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 15:52:57,340 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 15:52:57,342 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 15:52:57,739 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 15:52:57,932 INFO  [Logger] Entered into irrigationType() method. 
+2022-11-15 15:52:57,985 INFO  [Logger] WATER IRRIGATION TYPE* element is present 
+2022-11-15 15:52:58,051 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 15:52:58,090 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 15:52:58,227 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 15:52:58,266 INFO  [Logger] ADD element is present 
+2022-11-15 15:52:58,303 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 15:53:08,344 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 15:53:15,415 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:53:15,474 INFO  [Logger]  element is present 
+2022-11-15 15:53:15,582 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 15:53:15,584 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 15:53:15,906 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 15:53:16,053 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 15:53:16,099 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 15:53:16,237 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 15:53:16,267 INFO  [Logger] ADD element is present 
+2022-11-15 15:53:16,296 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 15:53:26,341 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 15:53:33,393 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:53:33,435 INFO  [Logger]  element is present 
+2022-11-15 15:53:33,525 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 15:53:33,527 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 15:53:33,855 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 15:53:33,975 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 15:53:34,025 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 15:53:34,163 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 15:53:34,197 INFO  [Logger] ADD element is present 
+2022-11-15 15:53:34,231 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 15:53:44,271 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 15:53:51,323 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:53:51,361 INFO  [Logger]  element is present 
+2022-11-15 15:53:51,460 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 15:53:51,461 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 15:53:51,751 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 15:53:51,879 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 15:53:51,933 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 15:53:52,096 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 15:53:52,125 INFO  [Logger] ADD element is present 
+2022-11-15 15:53:52,157 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 15:53:52,159 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 15:54:02,201 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 15:54:09,251 INFO  [Logger] Entered into getZoneNumber() method. 
+2022-11-15 15:54:09,301 INFO  [Logger] (1) GREEN ROTOR 41 element is present 
+2022-11-15 15:54:10,701 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:54:10,738 INFO  [Logger]  element is present 
+2022-11-15 15:54:10,893 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 15:54:14,952 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 6:23 AM
+success
+SEE PACKET element is present 
+2022-11-15 15:54:15,104 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 15:54:19,153 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 6:23 AM
+success
+SEE PACKET element is present 
+2022-11-15 15:54:19,215 INFO  [Logger] Entered into selectPacketFromLogsTable() method. 
+2022-11-15 15:54:19,244 INFO  [Logger] 1
+ravi kumar
+SR India Tulasi (2229)
+Device requested | Flow limit update | Packet type : Flow limit
+Employee
+November 15, 2022 6:23 AM
+success
+SEE PACKET element is present 
+2022-11-15 15:54:19,383 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 15:54:19,449 INFO  [Logger] { "packet_type": "flow_limit", "timestamp": [ 2022, 11, 15, 10, 23, 52 ], "msg_id": 1343628, "zone": 4, "flow_limit": 0.2 } element is present 
+2022-11-15 15:54:19,463 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 15:54:19,493 INFO  [Logger] { "packet_type": "flow_limit", "timestamp": [ 2022, 11, 15, 10, 23, 52 ], "msg_id": 1343628, "zone": 4, "flow_limit": 0.2 } element is present 
+2022-11-15 15:54:19,506 INFO  [Logger] Entered into closePacket() method. 
+2022-11-15 15:54:21,541 INFO  [Logger] OK element is present 
+2022-11-15 15:54:21,585 INFO  [Logger] Entered into addNewRegularWateringProgram() test. 
+2022-11-15 15:54:28,593 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:54:28,632 INFO  [Logger]  element is present 
+2022-11-15 15:54:28,782 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 15:54:32,835 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 15:54:37,106 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:54:41,151 INFO  [Logger]  element is present 
+2022-11-15 15:54:41,246 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:54:41,454 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 15:54:41,508 INFO  [Logger] Regular Watering element is present 
+2022-11-15 15:54:41,600 INFO  [Logger] Entered into handleStartDate() method. 
+2022-11-15 15:54:47,782 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 15:54:47,879 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:54:49,006 INFO  [Logger] Failed!! Unable to click on an element.//mat-select//span/span 
+2022-11-15 15:54:49,046 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 15:54:49,148 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:54:51,196 INFO  [Logger]  element is present 
+2022-11-15 15:54:51,295 INFO  [Logger] Entered into clickOnRepeatsDP() method. 
+2022-11-15 15:55:01,612 INFO  [Logger] Failed!! Unable to wait on this element mat-option > span.mat-option-text 
+2022-11-15 15:55:01,685 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:55:02,280 INFO  [Logger] --Select repeats-- element is present 
+2022-11-15 15:55:02,316 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:55:06,352 INFO  [Logger]  element is present 
+2022-11-15 15:55:06,447 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:55:06,638 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:55:08,676 INFO  [Logger]  element is present 
+2022-11-15 15:55:08,792 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 15:55:18,852 INFO  [Logger] Successfully added program element is present 
+2022-11-15 15:55:25,898 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:55:25,932 INFO  [Logger]  element is present 
+2022-11-15 15:55:26,072 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:55:26,111 INFO  [Logger]  element is present 
+2022-11-15 15:55:26,185 INFO  [Logger] Entered into isProgramPresent() method. 
+2022-11-15 15:55:26,741 INFO  [Logger] REGPRO 1602 (0) element is present 
+2022-11-15 15:55:26,765 INFO  [Logger] Entered into addSmrtWateringProgram() test. 
+2022-11-15 15:55:26,766 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:55:26,798 INFO  [Logger]  element is present 
+2022-11-15 15:55:26,883 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:55:26,917 INFO  [Logger]  element is present 
+2022-11-15 15:55:27,024 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 15:55:31,072 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 15:55:35,241 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:55:39,285 INFO  [Logger]  element is present 
+2022-11-15 15:55:39,377 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:55:39,565 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 15:55:39,608 INFO  [Logger] Regular Watering element is present 
+2022-11-15 15:55:39,684 INFO  [Logger] Entered into handleStartDate() method. 
+2022-11-15 15:55:45,868 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 15:55:45,941 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:55:47,038 INFO  [Logger] Failed!! Unable to click on an element.//mat-select//span/span 
+2022-11-15 15:55:47,072 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 15:55:47,132 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:55:49,177 INFO  [Logger]  element is present 
+2022-11-15 15:55:49,268 INFO  [Logger] Entered into clickOnRepeatsDP() method. 
+2022-11-15 15:55:59,577 INFO  [Logger] Failed!! Unable to wait on this element mat-option > span.mat-option-text 
+2022-11-15 15:55:59,641 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:56:00,232 INFO  [Logger] --Select repeats-- element is present 
+2022-11-15 15:56:00,280 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:56:02,321 INFO  [Logger]  element is present 
+2022-11-15 15:56:02,428 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 15:56:12,484 INFO  [Logger] Successfully added program element is present 
+2022-11-15 15:56:19,538 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:56:19,582 INFO  [Logger]  element is present 
+2022-11-15 15:56:19,759 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:56:19,804 INFO  [Logger]  element is present 
+2022-11-15 15:56:19,887 INFO  [Logger] Entered into isProgramPresent() method. 
+2022-11-15 15:56:20,458 INFO  [Logger] REGPRO 1602 (0) element is present 
+2022-11-15 15:56:20,501 INFO  [Logger] Entered into validateProgramWithSameConfig() test. 
+2022-11-15 15:56:23,513 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:56:23,548 INFO  [Logger]  element is present 
+2022-11-15 15:56:23,668 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:56:23,707 INFO  [Logger]  element is present 
+2022-11-15 15:56:23,794 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 15:56:27,847 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 15:56:32,034 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:56:36,079 INFO  [Logger]  element is present 
+2022-11-15 15:56:36,170 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:56:36,393 INFO  [Logger] Entered into handleStartDate() method. 
+2022-11-15 15:56:42,610 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 15:56:42,708 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:56:43,821 INFO  [Logger] Failed!! Unable to click on an element.//mat-select//span/span 
+2022-11-15 15:56:43,856 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 15:56:43,968 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 15:56:44,018 INFO  [Logger] Regular Watering element is present 
+2022-11-15 15:56:44,074 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:56:46,121 INFO  [Logger]  element is present 
+2022-11-15 15:56:46,217 INFO  [Logger] Entered into clickOnRepeatsDP() method. 
+2022-11-15 15:56:56,574 INFO  [Logger] Failed!! Unable to wait on this element mat-option > span.mat-option-text 
+2022-11-15 15:56:56,631 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:56:58,673 INFO  [Logger]  element is present 
+2022-11-15 15:56:58,753 INFO  [Logger] Entered into handleConfirmModal() method. 
+2022-11-15 15:57:08,814 INFO  [Logger] Entered into confirmPopup() method. 
+2022-11-15 15:57:29,137 INFO  [Logger] Failed!! Unable to wait on this element div.alertTitle.mat-dialog-title 
+2022-11-15 15:57:29,144 INFO  [Logger] Failed!! Unable to retrive the element.div.alertTitle.mat-dialog-title 
+2022-11-15 15:57:29,156 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 15:57:29,161 INFO  [Logger] Entered into programOverlapStartOrEndTimes() test. 
+2022-11-15 15:57:36,169 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:57:36,213 INFO  [Logger]  element is present 
+2022-11-15 15:57:36,349 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:57:36,391 INFO  [Logger]  element is present 
+2022-11-15 15:57:36,478 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 15:57:40,537 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 15:57:44,743 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:57:48,796 INFO  [Logger]  element is present 
+2022-11-15 15:57:48,885 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:57:49,077 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 15:57:49,122 INFO  [Logger] Regular Watering element is present 
+2022-11-15 15:57:49,212 INFO  [Logger] Entered into handleStartDate() method. 
+2022-11-15 15:57:55,470 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 15:57:55,544 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:57:56,655 INFO  [Logger] Failed!! Unable to click on an element.//mat-select//span/span 
+2022-11-15 15:57:56,693 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 15:57:56,793 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:57:58,848 INFO  [Logger]  element is present 
+2022-11-15 15:57:58,967 INFO  [Logger] Entered into timePeriod() method. 
+2022-11-15 15:57:59,588 INFO  [Logger] AM element is present 
+2022-11-15 15:57:59,746 INFO  [Logger] Entered into setTime() method. 
+2022-11-15 15:58:03,793 INFO  [Logger]  element is present 
+2022-11-15 15:58:06,987 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 15:58:07,053 INFO  [Logger] Entered into clickOnRepeatsDP() method. 
+2022-11-15 15:58:17,624 INFO  [Logger] Failed!! Unable to wait on this element mat-option > span.mat-option-text 
+2022-11-15 15:58:17,686 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 15:58:18,288 INFO  [Logger] --Select repeats-- element is present 
+2022-11-15 15:58:18,336 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:58:20,376 INFO  [Logger]  element is present 
+2022-11-15 15:58:20,481 INFO  [Logger] Entered into handleConfirmModal() method. 
+2022-11-15 15:58:30,547 INFO  [Logger] Entered into confirmPopup() method. 
+2022-11-15 15:58:50,808 INFO  [Logger] Failed!! Unable to wait on this element div.alertTitle.mat-dialog-title 
+2022-11-15 15:58:50,816 INFO  [Logger] Failed!! Unable to retrive the element.div.alertTitle.mat-dialog-title 
+2022-11-15 15:58:50,824 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 15:58:50,827 INFO  [Logger] Entered into updateExistingProgram() test. 
+2022-11-15 15:58:50,829 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:58:50,866 INFO  [Logger]  element is present 
+2022-11-15 15:58:51,029 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 15:58:51,065 INFO  [Logger]  element is present 
+2022-11-15 15:58:51,142 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 15:58:51,702 INFO  [Logger] OVERLAP 799 (3) element is present 
+2022-11-15 15:58:51,779 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 15:58:51,820 INFO  [Logger] EDIT element is present 
+2022-11-15 15:58:51,921 INFO  [Logger] Entered into scrollToTop() method. 
+2022-11-15 15:58:51,956 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 15:58:56,005 INFO  [Logger]  element is present 
+2022-11-15 15:58:56,144 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 15:58:56,355 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 15:58:56,395 INFO  [Logger] Regular Watering element is present 
+2022-11-15 15:58:56,464 INFO  [Logger] Entered into slideToggle() method. 
+2022-11-15 15:59:04,511 INFO  [Logger] Smart Stack element is present 
+2022-11-15 15:59:04,648 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 15:59:14,714 INFO  [Logger] Change from Single to Multiple Run Times? element is present 
+2022-11-15 15:59:14,759 INFO  [Logger] Entered into timePeriod() method. 
+2022-11-15 15:59:14,874 INFO  [Logger] AM element is present 
+2022-11-15 15:59:15,029 INFO  [Logger] Entered into setTime() method. 
+2022-11-15 15:59:19,073 INFO  [Logger]  element is present 
+2022-11-15 15:59:22,251 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 15:59:22,346 INFO  [Logger] add element is present 
+2022-11-15 15:59:22,580 INFO  [Logger] Entered into timePeriod() method. 
+2022-11-15 15:59:23,178 INFO  [Logger] AM element is present 
+2022-11-15 15:59:23,344 INFO  [Logger] Entered into setTime() method. 
+2022-11-15 15:59:27,382 INFO  [Logger]  element is present 
+2022-11-15 15:59:30,519 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 15:59:30,600 INFO  [Logger] add element is present 
+2022-11-15 15:59:30,826 INFO  [Logger] Entered into createSchedule() method. 
+2022-11-15 15:59:41,072 INFO  [Logger] Failed!! Unable to wait on this element //mat-card[@id='programFocus']//button[@class='btn-medium orange'] 
+2022-11-15 15:59:41,086 INFO  [Logger] Failed!! Unable to click on a button.//mat-card[@id='programFocus']//button[@class='btn-medium orange'] 
+2022-11-15 15:59:41,095 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 15:59:43,137 INFO  [Logger]  element is present 
+2022-11-15 15:59:43,258 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 15:59:53,309 INFO  [Logger] Successfully updated Program element is present 
+2022-11-15 16:00:00,382 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:00,427 INFO  [Logger]  element is present 
+2022-11-15 16:00:00,584 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:00,621 INFO  [Logger]  element is present 
+2022-11-15 16:00:00,705 INFO  [Logger] Entered into isProgramPresent() method. 
+2022-11-15 16:00:01,263 INFO  [Logger] OVERLAP 799 (3) element is present 
+2022-11-15 16:00:01,369 INFO  [Logger] Entered into program_ValidateSeasonalAdjustment() test. 
+2022-11-15 16:00:01,371 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:01,406 INFO  [Logger]  element is present 
+2022-11-15 16:00:01,511 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:01,549 INFO  [Logger]  element is present 
+2022-11-15 16:00:01,625 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 16:00:05,675 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 16:00:09,886 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 16:00:13,937 INFO  [Logger]  element is present 
+2022-11-15 16:00:14,026 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 16:00:14,196 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 16:00:14,246 INFO  [Logger] Regular Watering element is present 
+2022-11-15 16:00:14,346 INFO  [Logger] Entered into setTime() method. 
+2022-11-15 16:00:18,388 INFO  [Logger]  element is present 
+2022-11-15 16:00:21,525 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 16:00:21,584 INFO  [Logger] Entered into seasonalAdjustmentInput() method. 
+2022-11-15 16:00:21,745 INFO  [Logger] Entered into isWarningPresent() method. 
+2022-11-15 16:00:31,982 INFO  [Logger] Failed!! Unable to wait on this element div.alert.alert-danger 
+2022-11-15 16:00:31,990 INFO  [Logger] Failed!! Unable to retrive the element.div.alert.alert-danger 
+2022-11-15 16:00:31,993 INFO  [Logger] Entered into program_ValidateWarningMessages() test. 
+2022-11-15 16:00:31,995 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:32,032 INFO  [Logger]  element is present 
+2022-11-15 16:00:32,169 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:00:32,204 INFO  [Logger]  element is present 
+2022-11-15 16:00:32,274 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 16:00:36,319 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 16:00:40,482 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:00:42,531 INFO  [Logger]  element is present 
+2022-11-15 16:00:42,627 INFO  [Logger] Entered into isWarningPresent() method. 
+2022-11-15 16:00:42,663 INFO  [Logger] Warning : Please choose/add zones element is present 
+2022-11-15 16:00:42,694 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 16:00:42,695 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 16:00:42,788 INFO  [Logger] Entered into dynamicSelectionFromDropdown() method. 
+2022-11-15 16:00:42,831 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 16:00:42,894 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:00:44,935 INFO  [Logger]  element is present 
+2022-11-15 16:00:45,000 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:00:47,063 INFO  [Logger]  element is present 
+2022-11-15 16:00:47,137 INFO  [Logger] Entered into isWarningPresent() method. 
+2022-11-15 16:00:47,171 INFO  [Logger] Warning : Please provide program name element is present 
+2022-11-15 16:00:47,189 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 16:00:47,190 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 16:00:51,238 INFO  [Logger]  element is present 
+2022-11-15 16:00:51,326 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 16:00:51,491 INFO  [Logger] Entered into timePeriod() method. 
+2022-11-15 16:00:52,154 INFO  [Logger] AM element is present 
+2022-11-15 16:00:52,328 INFO  [Logger] Entered into setTimeAt05Min() method. 
+2022-11-15 16:00:52,368 INFO  [Logger]  element is present 
+2022-11-15 16:00:52,621 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 16:00:52,676 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:00:54,713 INFO  [Logger]  element is present 
+2022-11-15 16:00:54,792 INFO  [Logger] Entered into isWarningPresent() method. 
+2022-11-15 16:00:54,828 INFO  [Logger] Warning : User must allowed to add/update program for today with future time or with future date. element is present 
+2022-11-15 16:00:54,845 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 16:00:54,846 INFO  [Logger] Entered into handleStartDate() method. 
+2022-11-15 16:01:01,044 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 16:01:01,086 INFO  [Logger] Regular Watering element is present 
+2022-11-15 16:01:01,183 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 16:01:01,218 INFO  [Logger] Regular Watering element is present 
+2022-11-15 16:01:01,258 INFO  [Logger] Entered into clickOnRepeatsDP() method. 
+2022-11-15 16:01:11,550 INFO  [Logger] Failed!! Unable to wait on this element mat-option > span.mat-option-text 
+2022-11-15 16:01:11,610 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:01:13,649 INFO  [Logger]  element is present 
+2022-11-15 16:01:13,716 INFO  [Logger] Entered into isWarningPresent() method. 
+2022-11-15 16:01:13,752 INFO  [Logger] Warning : Please choose Repeats element is present 
+2022-11-15 16:01:13,770 INFO  [Logger] Failed!! Unable to click on a button.//mat-dialog-actions[@class='mat-dialog-actions']//button[1]/span[@class='mat-button-wrapper'] 
+2022-11-15 16:01:13,772 INFO  [Logger] Entered into deleteAllPrograms() test. 
+2022-11-15 16:01:13,774 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:01:13,811 INFO  [Logger]  element is present 
+2022-11-15 16:01:13,935 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:01:13,970 INFO  [Logger]  element is present 
+2022-11-15 16:01:14,043 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:01:15,106 INFO  [Logger] OVERLAP 799 (3) element is present 
+2022-11-15 16:01:15,233 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:01:15,273 INFO  [Logger] EDIT element is present 
+2022-11-15 16:01:15,390 INFO  [Logger] Entered into confirmStatusModelBox() method. 
+2022-11-15 16:01:23,435 INFO  [Logger] Delete program SMARTPRO 288 ? element is present 
+2022-11-15 16:01:23,481 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 16:01:33,540 INFO  [Logger] Successfully deleted the Program SMARTPRO 288 element is present 
+2022-11-15 16:01:33,582 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:01:33,619 INFO  [Logger]  element is present 
+2022-11-15 16:01:33,706 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:01:33,748 INFO  [Logger] OVERLAP 799 (3) element is present 
+2022-11-15 16:01:33,787 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:01:33,823 INFO  [Logger] EDIT element is present 
+2022-11-15 16:01:33,937 INFO  [Logger] Entered into confirmStatusModelBox() method. 
+2022-11-15 16:01:41,977 INFO  [Logger] Delete program UPDATEDPR 168 ? element is present 
+2022-11-15 16:01:42,017 INFO  [Logger] Entered into deleteConfirmation() method. 
+2022-11-15 16:01:51,105 INFO  [Logger] Successfully deleted the Program UPDATEDPR 168 element is present 
+2022-11-15 16:01:56,227 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:01:56,271 INFO  [Logger] EDIT element is present 
+2022-11-15 16:01:56,382 INFO  [Logger] Entered into confirmStatusModelBox() method. 
+2022-11-15 16:02:04,418 INFO  [Logger] Delete program REGPRO 376 ? element is present 
+2022-11-15 16:02:04,457 INFO  [Logger] Entered into deleteConfirmation() method. 
+2022-11-15 16:02:13,039 INFO  [Logger] Successfully deleted the Program REGPRO 376 element is present 
+2022-11-15 16:02:18,126 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:02:18,165 INFO  [Logger] EDIT element is present 
+2022-11-15 16:02:18,302 INFO  [Logger] Entered into confirmStatusModelBox() method. 
+2022-11-15 16:02:26,345 INFO  [Logger] Delete program OverLap 799 ? element is present 
+2022-11-15 16:02:26,385 INFO  [Logger] Entered into deleteConfirmation() method. 
+2022-11-15 16:02:34,967 INFO  [Logger] Successfully deleted the Program OverLap 799 element is present 
+2022-11-15 16:02:40,014 INFO  [Logger] Entered into deleteZones() test. 
+2022-11-15 16:02:40,016 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:02:40,052 INFO  [Logger]  element is present 
+2022-11-15 16:02:40,268 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 16:02:40,309 INFO  [Logger] (1) GREEN ROTOR 41 element is present 
+2022-11-15 16:02:40,372 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 16:02:40,408 INFO  [Logger] EDIT element is present 
+2022-11-15 16:02:40,576 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 16:02:40,621 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 16:02:41,163 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 16:02:48,210 INFO  [Logger] Entered into selectExistingZone() method. 
+2022-11-15 16:02:48,248 INFO  [Logger] (2) SPRAY 584 element is present 
+2022-11-15 16:02:48,299 INFO  [Logger] Entered into deleteZone() method. 
+2022-11-15 16:02:48,331 INFO  [Logger] EDIT element is present 
+2022-11-15 16:02:48,482 INFO  [Logger] Do you want to delete the zone? element is present 
+2022-11-15 16:02:48,527 INFO  [Logger] Entered into deleteConfirm() method. 
+2022-11-15 16:02:49,072 INFO  [Logger] Successfully deleted Zone element is present 
+2022-11-15 16:02:56,123 INFO  [Logger] Entered into smartET_CreateNormalProgram() test. 
+2022-11-15 16:03:06,129 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:06,164 INFO  [Logger]  element is present 
+2022-11-15 16:03:06,218 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:06,248 INFO  [Logger]  element is present 
+2022-11-15 16:03:06,443 INFO  [Logger] Entered into getTimeZone() method. 
+2022-11-15 16:03:06,444 INFO  [Logger] Entered into getDeviceStatus() method. 
+2022-11-15 16:03:06,483 INFO  [Logger] ADDRESS element is present 
+2022-11-15 16:03:06,600 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 16:03:06,602 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:06,666 INFO  [Logger]  element is present 
+2022-11-15 16:03:13,820 INFO  [Logger] Entered into getCurrentDayRainChance() method. 
+2022-11-15 16:03:13,870 INFO  [Logger] - element is present 
+2022-11-15 16:03:13,905 INFO  [Logger] Entered into getCurrentDayET() method. 
+2022-11-15 16:03:13,951 INFO  [Logger] 0.06 element is present 
+2022-11-15 16:03:13,963 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:13,995 INFO  [Logger]  element is present 
+2022-11-15 16:03:14,176 INFO  [Logger] Entered into rainChanceOfSiteConfig() method. 
+2022-11-15 16:03:14,177 INFO  [Logger] Entered into getDeviceStatus() method. 
+2022-11-15 16:03:14,213 INFO  [Logger] ADDRESS element is present 
+2022-11-15 16:03:14,478 INFO  [Logger] Entered into getDeviceStatus() method. 
+2022-11-15 16:03:14,504 INFO  [Logger] ADDRESS element is present 
+2022-11-15 16:03:14,804 INFO  [Logger] Entered into getFWVersion() method. 
+2022-11-15 16:03:14,806 INFO  [Logger] Entered into getDeviceStatus() method. 
+2022-11-15 16:03:14,834 INFO  [Logger] ADDRESS element is present 
+2022-11-15 16:03:15,273 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:15,305 INFO  [Logger]  element is present 
+2022-11-15 16:03:15,467 INFO  [Logger] Entered into createZone() method. 
+2022-11-15 16:03:15,468 INFO  [Logger] Entered into selectZoneButton() method. 
+2022-11-15 16:03:15,819 INFO  [Logger] Entered into verifyZonesNumber() method. 
+2022-11-15 16:03:15,986 INFO  [Logger] Entered into irrigationType() method. 
+2022-11-15 16:03:16,040 INFO  [Logger] WATER IRRIGATION TYPE* element is present 
+2022-11-15 16:03:16,102 INFO  [Logger] Entered into verifyDefaultFlowData() method. 
+2022-11-15 16:03:16,138 INFO  [Logger] Drip 60 m element is present 
+2022-11-15 16:03:16,269 INFO  [Logger] Entered into addZoneFinalBtn() method. 
+2022-11-15 16:03:16,306 INFO  [Logger] ADD element is present 
+2022-11-15 16:03:16,340 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 16:03:26,387 INFO  [Logger] Successfully added Zone element is present 
+2022-11-15 16:03:33,465 INFO  [Logger] Entered into refreshScreen() method. 
+2022-11-15 16:03:34,475 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:03:36,053 INFO  [Logger]  element is present 
+2022-11-15 16:03:36,210 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 16:03:40,292 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 16:03:44,490 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 16:03:48,539 INFO  [Logger]  element is present 
+2022-11-15 16:03:48,629 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 16:03:48,823 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 16:03:48,866 INFO  [Logger] Regular Watering element is present 
+2022-11-15 16:03:48,954 INFO  [Logger] Entered into clickOnDropDown() method. 
+2022-11-15 16:03:49,029 INFO  [Logger] Entered into selectOption() method. 
+2022-11-15 16:03:50,149 INFO  [Logger] Failed!! Unable to click on an element.//mat-select//span/span 
+2022-11-15 16:03:50,188 INFO  [Logger] --Select Zone-- element is present 
+2022-11-15 16:03:50,250 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:03:52,300 INFO  [Logger]  element is present 
+2022-11-15 16:03:52,396 INFO  [Logger] Entered into timePeriod() method. 
+2022-11-15 16:03:53,013 INFO  [Logger] AM element is present 
+2022-11-15 16:03:53,163 INFO  [Logger] Entered into setTime() method. 
+2022-11-15 16:03:57,218 INFO  [Logger]  element is present 
+2022-11-15 16:04:00,407 INFO  [Logger] Entered into selectBtnOfTime() method. 
+2022-11-15 16:04:00,466 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:04:02,502 INFO  [Logger]  element is present 
+2022-11-15 16:04:02,604 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 16:04:02,606 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 16:04:02,607 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 16:04:12,661 INFO  [Logger] Successfully added program element is present 
+2022-11-15 16:04:12,705 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:12,744 INFO  [Logger]  element is present 
+2022-11-15 16:04:12,930 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:12,963 INFO  [Logger]  element is present 
+2022-11-15 16:04:13,053 INFO  [Logger] Entered into getProgramID() method. 
+2022-11-15 16:04:13,618 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:04:13,641 INFO  [Logger] Entered into getProgramID() method. 
+2022-11-15 16:04:13,673 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:04:20,716 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:04:20,750 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:04:20,832 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:04:20,872 INFO  [Logger] EDIT element is present 
+2022-11-15 16:04:20,975 INFO  [Logger] Entered into handleRedEye() method. 
+2022-11-15 16:04:27,098 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:04:27,136 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:04:29,253 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:04:29,281 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:04:31,373 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:04:31,401 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:04:33,450 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:04:33,480 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:04:35,543 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:35,573 INFO  [Logger]  element is present 
+2022-11-15 16:04:35,710 INFO  [Logger] Entered into getZoneNumber() method. 
+2022-11-15 16:04:35,748 INFO  [Logger] (1) SPRAY 584 element is present 
+2022-11-15 16:04:36,094 INFO  [Logger] Entered into getZoneNumber() method. 
+2022-11-15 16:04:36,119 INFO  [Logger] (1) SPRAY 584 element is present 
+2022-11-15 16:04:36,473 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:36,520 INFO  [Logger]  element is present 
+2022-11-15 16:04:36,665 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:36,700 INFO  [Logger]  element is present 
+2022-11-15 16:04:36,794 INFO  [Logger] Entered into isProgramPresent() method. 
+2022-11-15 16:04:37,350 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:04:37,365 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:37,396 INFO  [Logger]  element is present 
+2022-11-15 16:04:37,478 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:37,514 INFO  [Logger]  element is present 
+2022-11-15 16:04:37,634 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 16:04:41,693 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:34 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:04:41,831 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 16:04:45,877 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:34 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:04:45,931 INFO  [Logger] Entered into selectPacketFromLogsTable() method. 
+2022-11-15 16:04:45,960 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:34 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:04:46,086 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,124 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,135 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,161 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,172 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,200 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,211 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,235 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,249 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,275 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,285 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,311 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,321 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,346 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,356 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:04:46,381 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 34, 7 ], "msg_id": 1343658, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1 ], "zone_start": [ 2350 ], "zone_duration": [ 15 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:04:46,391 INFO  [Logger] Entered into closePacket() method. 
+2022-11-15 16:04:48,438 INFO  [Logger] OK element is present 
+2022-11-15 16:04:48,499 INFO  [Logger] Entered into smartET_verifyDefaultETValues() test. 
+2022-11-15 16:04:48,501 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:04:48,538 INFO  [Logger]  element is present 
+2022-11-15 16:04:48,639 INFO  [Logger] Entered into selectLargeButtonInProgram() method. 
+2022-11-15 16:04:52,685 INFO  [Logger] RUN PROGRAM element is present 
+2022-11-15 16:04:56,844 INFO  [Logger] Entered into createNewProgram() method. 
+2022-11-15 16:05:00,892 INFO  [Logger]  element is present 
+2022-11-15 16:05:00,977 INFO  [Logger] Failed!! Unable to submit the element.//div[1]/div/span//input 
+2022-11-15 16:05:01,149 INFO  [Logger] Entered into typeOfWatering() method. 
+2022-11-15 16:05:01,193 INFO  [Logger] Regular Watering element is present 
+2022-11-15 16:05:01,281 INFO  [Logger] Entered into validateETLabels() method. 
+2022-11-15 16:05:01,316 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:01,382 INFO  [Logger] Entered into compareDefaultETValues() method. 
+2022-11-15 16:05:01,383 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:01,422 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:03,472 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:03,500 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:05,537 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:05,565 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:07,624 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:07,652 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:09,723 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:09,753 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:11,840 INFO  [Logger] Entered into getDefaultValue() method. 
+2022-11-15 16:05:11,868 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:13,959 INFO  [Logger] Entered into smartET_BucketValue() test. 
+2022-11-15 16:05:13,961 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:13,994 INFO  [Logger]  element is present 
+2022-11-15 16:05:14,174 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:14,226 INFO  [Logger]  element is present 
+2022-11-15 16:05:14,307 INFO  [Logger] Entered into isProgramPresent() method. 
+2022-11-15 16:05:14,871 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:05:14,893 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:05:14,922 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:05:14,972 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:05:15,010 INFO  [Logger] EDIT element is present 
+2022-11-15 16:05:15,166 INFO  [Logger] Entered into handleRedEye() method. 
+2022-11-15 16:05:21,260 INFO  [Logger] Entered into scrollToTop() method. 
+2022-11-15 16:05:21,286 INFO  [Logger] Entered into validateBucketValues() method. 
+2022-11-15 16:05:24,291 INFO  [Logger] Entered into validateBucketValues() method. 
+2022-11-15 16:05:24,331 INFO  [Logger] 1 element is present 
+2022-11-15 16:05:24,342 INFO  [Logger] Entered into getBucketMADValue() method. 
+2022-11-15 16:05:24,366 INFO  [Logger] 1 element is present 
+2022-11-15 16:05:24,385 INFO  [Logger] Entered into getBucketGWLValue() method. 
+2022-11-15 16:05:24,409 INFO  [Logger] 1 element is present 
+2022-11-15 16:05:24,427 INFO  [Logger] Entered into getETFieldValue() method. 
+2022-11-15 16:05:24,459 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:26,499 INFO  [Logger] Entered into getETFieldValue() method. 
+2022-11-15 16:05:26,527 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:28,636 INFO  [Logger] Entered into getETFieldValue() method. 
+2022-11-15 16:05:28,665 INFO  [Logger] FC Field Capacity
+(IA*IA Multiplier) element is present 
+2022-11-15 16:05:30,746 INFO  [Logger] Entered into smartET_CycleSoak() test. 
+2022-11-15 16:05:30,748 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:30,783 INFO  [Logger]  element is present 
+2022-11-15 16:05:30,864 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:30,893 INFO  [Logger]  element is present 
+2022-11-15 16:05:31,062 INFO  [Logger] Entered into getFWVersion() method. 
+2022-11-15 16:05:31,063 INFO  [Logger] Entered into getDeviceStatus() method. 
+2022-11-15 16:05:31,121 INFO  [Logger] ADDRESS element is present 
+2022-11-15 16:05:31,717 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:31,746 INFO  [Logger]  element is present 
+2022-11-15 16:05:31,875 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:31,909 INFO  [Logger]  element is present 
+2022-11-15 16:05:32,019 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:05:32,578 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:05:32,625 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:05:32,664 INFO  [Logger] EDIT element is present 
+2022-11-15 16:05:32,761 INFO  [Logger] Entered into scrollToTop() method. 
+2022-11-15 16:05:32,770 INFO  [Logger] Entered into slideToggle() method. 
+2022-11-15 16:05:40,832 INFO  [Logger] Smart Stack element is present 
+2022-11-15 16:05:40,988 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:05:43,039 INFO  [Logger]  element is present 
+2022-11-15 16:05:43,165 INFO  [Logger] Entered into date_Time() method. 
+2022-11-15 16:05:43,175 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 16:05:53,239 INFO  [Logger] Successfully updated Program element is present 
+2022-11-15 16:05:53,281 INFO  [Logger] Entered into getProgramID() method. 
+2022-11-15 16:05:53,326 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:05:53,343 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:53,379 INFO  [Logger]  element is present 
+2022-11-15 16:05:53,486 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:05:53,520 INFO  [Logger]  element is present 
+2022-11-15 16:05:53,629 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 16:05:57,687 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:35 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:05:57,819 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 16:06:01,868 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:35 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:06:01,927 INFO  [Logger] Entered into selectPacketFromLogsTable() method. 
+2022-11-15 16:06:01,955 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:35 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:06:02,083 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:06:02,123 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 35, 48 ], "msg_id": 1343660, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1, 1, 1 ], "zone_start": [ 2350, 2355, 2400 ], "zone_duration": [ 5, 5, 5 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:06:02,134 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:06:02,162 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 35, 48 ], "msg_id": 1343660, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1, 1, 1 ], "zone_start": [ 2350, 2355, 2400 ], "zone_duration": [ 5, 5, 5 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:06:02,173 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:06:02,198 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 35, 48 ], "msg_id": 1343660, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1, 1, 1 ], "zone_start": [ 2350, 2355, 2400 ], "zone_duration": [ 5, 5, 5 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:06:02,209 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:06:02,234 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 35, 48 ], "msg_id": 1343660, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1, 1, 1 ], "zone_start": [ 2350, 2355, 2400 ], "zone_duration": [ 5, 5, 5 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:06:02,247 INFO  [Logger] Entered into getPacketData() method. 
+2022-11-15 16:06:02,273 INFO  [Logger] { "packet_type": "program", "timestamp": [ 2022, 11, 15, 10, 35, 48 ], "msg_id": 1343660, "program_id": 0, "name": "PROGRAM 6", "type": "Smart Watering ET", "status": "ON", "days": [ "TU", "TH" ], "zone_number": [ 1, 1, 1 ], "zone_start": [ 2350, 2355, 2400 ], "zone_duration": [ 5, 5, 5 ], "enable_time": [ 2022, 11, 15, 0, 0, 0 ], "expire_time": [ 2027, 11, 16, 23, 59, 59 ] } element is present 
+2022-11-15 16:06:02,284 INFO  [Logger] Entered into closePacket() method. 
+2022-11-15 16:06:04,348 INFO  [Logger] OK element is present 
+2022-11-15 16:06:04,390 INFO  [Logger] Entered into smartET_RainOverRide() test. 
+2022-11-15 16:06:04,391 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:04,428 INFO  [Logger]  element is present 
+2022-11-15 16:06:04,587 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:04,620 INFO  [Logger]  element is present 
+2022-11-15 16:06:04,787 INFO  [Logger] Entered into selectDotsToUpdateSiteDetails() method. 
+2022-11-15 16:06:08,860 INFO  [Logger] more_vert element is present 
+2022-11-15 16:06:08,926 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:06:08,968 INFO  [Logger] EDIT element is present 
+2022-11-15 16:06:09,229 INFO  [Logger] Entered into rainSensor() method. 
+2022-11-15 16:06:14,278 INFO  [Logger] None element is present 
+2022-11-15 16:06:16,420 INFO  [Logger] Basic Saturation Sensor element is present 
+2022-11-15 16:06:16,485 INFO  [Logger] Entered into selectSiteUpdateBtn() method. 
+2022-11-15 16:06:16,549 INFO  [Logger] UPDATE element is present 
+2022-11-15 16:06:16,631 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-15 16:06:26,712 INFO  [Logger] Successfully updated site element is present 
+2022-11-15 16:06:33,769 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:33,805 INFO  [Logger]  element is present 
+2022-11-15 16:06:33,932 INFO  [Logger] Entered into selectDotsBasedOnProgram() method. 
+2022-11-15 16:06:35,009 INFO  [Logger] PROGRAM 6 (0) element is present 
+2022-11-15 16:06:35,064 INFO  [Logger] Entered into selectUpdateOrDelete() method. 
+2022-11-15 16:06:35,100 INFO  [Logger] EDIT element is present 
+2022-11-15 16:06:35,198 INFO  [Logger] Entered into scrollToTop() method. 
+2022-11-15 16:06:35,210 INFO  [Logger] Entered into slidersRain() method. 
+2022-11-15 16:06:37,401 INFO  [Logger] Smart Stack element is present 
+2022-11-15 16:06:37,511 INFO  [Logger] Entered into programButtons() method. 
+2022-11-15 16:06:39,558 INFO  [Logger]  element is present 
+2022-11-15 16:06:39,665 INFO  [Logger] Entered into confirmationMessage() method. 
+2022-11-15 16:06:49,710 INFO  [Logger] Failed!! Unable to click on a button.button.btn-mini.clear.handSymbol.ng-star-inserted 
+2022-11-15 16:06:49,711 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:49,748 INFO  [Logger]  element is present 
+2022-11-15 16:06:49,928 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:49,963 INFO  [Logger]  element is present 
+2022-11-15 16:06:50,102 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:50,135 INFO  [Logger]  element is present 
+2022-11-15 16:06:50,248 INFO  [Logger] Entered into verifyDataFromColumns() method. 
+2022-11-15 16:06:59,473 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:36 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:06:59,608 INFO  [Logger] Entered into verifyDataFromColDescription() method. 
+2022-11-15 16:06:59,643 INFO  [Logger] 1
+SR India Tulasi (2229)
+PROGRAM 6 will water | Starting GWL : 0.00 | ET : 0.06 | LA : 100% | MAD : 0.5 | Rain : 0.12 inches | IA : 0.5 | Predicted Ending GWL: 0.50
+Device
+November 15, 2022 6:36 AM
+success
+SEE PACKET element is present 
+2022-11-15 16:06:59,716 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:06:59,746 INFO  [Logger]  element is present 
+2022-11-15 16:07:00,895 INFO  [Logger] Entered into smartET_SmartStack() test. 
+2022-11-15 16:07:00,896 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:00,928 INFO  [Logger]  element is present 
+2022-11-15 16:07:02,011 INFO  [Logger] Entered into smartEt_GWLandMADBasedOnFC() test. 
+2022-11-15 16:07:02,013 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:02,047 INFO  [Logger]  element is present 
+2022-11-15 16:07:03,154 INFO  [Logger] Entered into smartET_ProgamOff() test. 
+2022-11-15 16:07:03,155 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:03,190 INFO  [Logger]  element is present 
+2022-11-15 16:07:04,312 INFO  [Logger] Entered into smartEt_IncrmentOrDecrement() test. 
+2022-11-15 16:07:04,314 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:04,348 INFO  [Logger]  element is present 
+2022-11-15 16:07:05,469 INFO  [Logger] Entered into smartET_ValidateIAandIAM() test. 
+2022-11-15 16:07:05,470 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:05,505 INFO  [Logger]  element is present 
+2022-11-15 16:07:06,610 INFO  [Logger] Entered into smartET_MultiRunTimes() test. 
+2022-11-15 16:07:06,612 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:06,645 INFO  [Logger]  element is present 
+2022-11-15 16:07:07,721 INFO  [Logger] Entered into smartET_SmartStackWithCycleSoak() test. 
+2022-11-15 16:07:07,723 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:07,757 INFO  [Logger]  element is present 
+2022-11-15 16:07:08,797 INFO  [Logger] Entered into smartStackWithMultipleRunTimes() test. 
+2022-11-15 16:07:12,801 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:12,835 INFO  [Logger]  element is present 
+2022-11-15 16:07:13,933 INFO  [Logger] Entered into stack_UpdateProgramByAddingZones() test. 
+2022-11-15 16:07:20,937 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:20,972 INFO  [Logger]  element is present 
+2022-11-15 16:07:22,064 INFO  [Logger] Entered into stack_ManualStackOn() test. 
+2022-11-15 16:07:22,066 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:22,100 INFO  [Logger]  element is present 
+2022-11-15 16:07:23,197 INFO  [Logger] Entered into deleteZoneWhichAssignedToProgram() test. 
+2022-11-15 16:07:23,199 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:23,235 INFO  [Logger]  element is present 
+2022-11-15 16:07:24,348 INFO  [Logger] Entered into stack_ValidateOverTheMaxFlow() test. 
+2022-11-15 16:07:31,354 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:31,388 INFO  [Logger]  element is present 
+2022-11-15 16:07:32,465 INFO  [Logger] Entered into runProgramForFullTime() test. 
+2022-11-15 16:07:42,473 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:42,512 INFO  [Logger]  element is present 
+2022-11-15 16:07:43,641 INFO  [Logger] Entered into runProgramForOtherConfiguredMinutes() test. 
+2022-11-15 16:07:43,643 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:43,677 INFO  [Logger]  element is present 
+2022-11-15 16:07:44,795 INFO  [Logger] Entered into runProgram_ValidateAlertsOfOthers() test. 
+2022-11-15 16:07:44,797 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:44,831 INFO  [Logger]  element is present 
+2022-11-15 16:07:45,937 INFO  [Logger] Entered into zonesDetails_StartTiggerFor2Minutes() test. 
+2022-11-15 16:07:45,938 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:45,972 INFO  [Logger]  element is present 
+2022-11-15 16:07:47,073 INFO  [Logger] Entered into runSelectedZonesFor2Minutes() test. 
+2022-11-15 16:07:47,074 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:47,106 INFO  [Logger]  element is present 
+2022-11-15 16:07:48,198 INFO  [Logger] Entered into runZonesFor1Minute() test. 
+2022-11-15 16:07:48,200 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-15 16:07:48,234 INFO  [Logger]  element is present 
+2022-11-19 10:40:32,934 INFO  [Logger] Enter into loginWithValidCredentials() tests. 
+2022-11-19 10:40:32,949 INFO  [Logger] Enter into loginCredenditals() method 
+2022-11-19 10:40:33,400 INFO  [Logger] LOGIN element is present 
+2022-11-19 10:40:43,620 INFO  [Logger] HOME element is present 
+2022-11-19 10:40:53,674 INFO  [Logger] Entered into validateNewSiteFields() test. 
+2022-11-19 10:41:03,701 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:41:03,822 INFO  [Logger]  element is present 
+2022-11-19 10:41:04,058 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:04,189 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:04,421 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:04,592 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:04,847 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:41:05,230 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:41:10,341 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:41:10,420 INFO  [Logger]  element is present 
+2022-11-19 10:41:10,690 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:10,922 INFO  [Logger] SITES element is present 
+2022-11-19 10:41:10,982 INFO  [Logger] Entered into createNeweSite method. 
+2022-11-19 10:41:11,503 INFO  [Logger]  element is present 
+2022-11-19 10:41:11,689 INFO  [Logger] Failed!! Unable to click on a button.button.blue.locationBtn.btn-large.orange 
+2022-11-19 10:41:21,757 INFO  [Logger] Failed!! Unable to wait on this element div.alert-text.ng-star-inserted > div.ng-star-inserted 
+2022-11-19 10:41:21,869 INFO  [Logger] Failed!! Unable to retrive the element.div.alert-text.ng-star-inserted > div.ng-star-inserted 
+2022-11-19 10:41:22,387 INFO  [Logger] Entered into selectTimeZone method. 
+2022-11-19 10:41:25,591 INFO  [Logger]  element is present 
+2022-11-19 10:41:25,890 INFO  [Logger] US/Alaska element is present 
+2022-11-19 10:41:26,287 INFO  [Logger] Entered into addZonesToSite() test. 
+2022-11-19 10:41:36,302 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:41:36,422 INFO  [Logger]  element is present 
+2022-11-19 10:41:36,640 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:36,775 INFO  [Logger] SITES element is present 
+2022-11-19 10:41:36,933 INFO  [Logger] TETHERED GROUPS element is present 
+2022-11-19 10:41:37,114 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:41:37,390 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:41:37,623 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:41:43,681 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:41:43,765 INFO  [Logger]  element is present 
+2022-11-19 10:41:43,934 INFO  [Logger] HOME element is present 
+2022-11-19 10:41:44,092 INFO  [Logger] SITES element is present 
+2022-11-19 10:41:54,155 INFO  [Logger] Entered into searchAndSelectExistingSite() method. 
+2022-11-19 10:41:57,266 INFO  [Logger]  element is present 
+2022-11-19 10:42:07,609 INFO  [Logger] Failed!! Unable to wait on this element //div[@class='card site_boxs ng-star-inserted']//div[@class='site-name-style'] 
+2022-11-19 10:42:14,662 INFO  [Logger] Entered into addZoneWithSprayType() test. 
+2022-11-19 10:42:14,675 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:42:24,736 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:42:24,768 INFO  [Logger] Entered into verifyCitiesOfStateAlaska() test. 
+2022-11-19 10:42:30,791 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:42:30,864 INFO  [Logger]  element is present 
+2022-11-19 10:42:31,020 INFO  [Logger] HOME element is present 
+2022-11-19 10:42:31,139 INFO  [Logger] SITES element is present 
+2022-11-19 10:42:31,243 INFO  [Logger] SITES element is present 
+2022-11-19 10:42:31,483 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:42:31,724 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:42:31,917 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:42:37,972 INFO  [Logger] Entered into  storeDataInProrpertyFile() method 
+2022-11-19 10:42:37,975 INFO  [Logger] Entered into provideExcelCityPath() method. 
+2022-11-19 10:42:39,062 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,065 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,209 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,212 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,251 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,256 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,262 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,278 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,291 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,295 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,340 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,344 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,356 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,356 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,374 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,378 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,390 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,393 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,404 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,408 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,419 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,419 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,436 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,440 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,452 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,455 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,466 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,471 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,474 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,485 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,493 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,497 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,507 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,511 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,532 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,535 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,545 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,546 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,553 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,553 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,578 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,579 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,594 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,595 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,614 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,614 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,631 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,632 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,643 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,646 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,658 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,662 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,674 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,678 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,688 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,694 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,705 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,708 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,722 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,725 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,735 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,739 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,748 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,752 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,764 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,768 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,776 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,779 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,784 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,784 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,795 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,795 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,817 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,820 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,826 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,833 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,842 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,846 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,858 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,861 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,871 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,876 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,887 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,891 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,902 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,906 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,911 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,911 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,928 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,928 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,945 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,945 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,959 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,963 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,973 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,976 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,986 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:39,989 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:39,999 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,002 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,011 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,014 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,024 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,027 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,030 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,041 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,051 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,052 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,070 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,073 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,084 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,088 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,100 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,104 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,114 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,119 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,123 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,123 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,145 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,145 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,157 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,157 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,178 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,182 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,192 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,196 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,205 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,208 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,217 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,221 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,223 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,223 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,246 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,250 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,258 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,264 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,267 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,279 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,288 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,292 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,294 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,294 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,316 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,320 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,329 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,333 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,343 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,346 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,356 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,360 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,361 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,374 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,385 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,389 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,398 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,402 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,406 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,406 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,425 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,425 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,441 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,442 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,453 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,453 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,467 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,471 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,481 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,485 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,493 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,493 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,504 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,510 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,513 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,523 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,525 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,537 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,548 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,552 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,559 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,562 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,569 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,572 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,577 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,586 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,595 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,599 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,609 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,614 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,619 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,626 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,634 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,638 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,648 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,652 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,662 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,665 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,674 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,674 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,694 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,695 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,710 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,713 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,727 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,732 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,733 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,733 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,757 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,760 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,771 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,774 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,785 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,788 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,799 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,800 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,812 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,815 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,826 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,830 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,838 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,838 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,852 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,856 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,865 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,869 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,878 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,881 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,890 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,895 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,902 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,902 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,918 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,921 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,930 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,934 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,941 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,944 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,953 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,955 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,963 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,963 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,979 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,983 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,992 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:40,994 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:40,996 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,008 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,017 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,020 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,028 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,029 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,041 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,043 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,053 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,056 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,062 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,066 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,074 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,077 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,082 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,086 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,099 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,100 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,111 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,114 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,114 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,130 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,138 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,141 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,149 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,152 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,160 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,163 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,169 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,175 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,183 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,187 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,195 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,198 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,206 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,212 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,220 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,223 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,233 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,236 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,244 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,247 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,255 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,255 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,270 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,273 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,283 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,286 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,293 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,295 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,300 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,303 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,309 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,312 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,318 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,321 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,326 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,329 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,336 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,339 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,347 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,348 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,361 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,361 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,375 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,378 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,386 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,389 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,396 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,399 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,404 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,404 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,418 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,421 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,428 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,431 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,439 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,442 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,448 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,449 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,459 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,459 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,472 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,475 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,483 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,486 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,491 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,491 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,507 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,509 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,517 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,520 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,524 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,531 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,538 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,540 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,548 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,551 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,552 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,562 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,568 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,573 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,576 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,584 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,591 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,595 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,602 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,605 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,612 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,614 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,621 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,624 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,630 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,634 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,639 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,644 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,650 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,652 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,658 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,661 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,668 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,670 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,676 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,679 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,686 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,688 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,695 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,698 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,704 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,706 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,713 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,715 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,721 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,725 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,732 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,735 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,743 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,746 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,752 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,755 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,762 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,763 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,773 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,776 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,783 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,786 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,794 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,796 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,798 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,798 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,815 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,818 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,825 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,828 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,836 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,838 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,845 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,848 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,855 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,857 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,864 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,867 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,874 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,876 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,883 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,886 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,892 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,895 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,902 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,905 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,912 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,915 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,922 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,923 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,933 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,935 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,942 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,945 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,952 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,955 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,961 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,964 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,969 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,972 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,978 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,981 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,988 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:41,991 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:41,998 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,001 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,008 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,011 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,016 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,020 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,026 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,028 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,036 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,038 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,045 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,046 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,056 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,059 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,066 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,069 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,076 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,079 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,086 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,088 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,095 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,098 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,106 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,109 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,115 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,118 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,123 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,123 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,135 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,138 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,145 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,148 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,154 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,157 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,164 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,167 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,174 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,176 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,184 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,187 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,194 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,197 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,199 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,207 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,214 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,217 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,224 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,226 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,233 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,236 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,243 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,246 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,253 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,256 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,260 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,265 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,271 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,273 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,279 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,282 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,288 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,291 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,292 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,292 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,309 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,312 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,319 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,321 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,327 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,330 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,335 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,338 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,343 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,345 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,353 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,356 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,362 INFO  [Logger] Entered into setAttributeOptionsInProperty() method. 
+2022-11-19 10:42:42,365 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:42:42,366 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:42:42,442 INFO  [Logger]  element is present 
+2022-11-19 10:42:42,586 INFO  [Logger] HOME element is present 
+2022-11-19 10:42:42,713 INFO  [Logger] SITES element is present 
+2022-11-19 10:42:48,763 INFO  [Logger] Entered into openNewSiteAndSelectCountry method. 
+2022-11-19 10:42:48,880 INFO  [Logger] ADD SITE element is present 
+2022-11-19 10:42:49,496 INFO  [Logger]  element is present 
+2022-11-19 10:42:55,758 INFO  [Logger] Entered into verifyCityBasedStateOrProvince() method. 
+2022-11-19 10:42:55,818 INFO  [Logger]  element is present 
+2022-11-19 10:43:02,108 INFO  [Logger]  element is present 
+2022-11-19 10:43:02,242 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,244 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,381 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,382 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,453 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,454 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,524 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,526 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,582 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,583 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,647 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,649 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,712 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,713 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,762 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,763 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,810 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,811 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,869 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,871 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,922 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,923 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:02,976 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:02,978 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,032 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,033 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,087 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,088 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,139 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,140 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,197 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,198 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,268 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,270 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,337 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,338 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,398 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,400 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,461 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,463 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,515 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,517 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,568 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,569 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,623 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,624 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,712 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,712 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,759 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,760 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,808 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,810 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,862 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,863 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,919 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,921 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:03,971 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:03,972 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,022 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,024 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,081 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,082 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,144 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,146 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,198 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,199 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,251 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,252 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,314 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,315 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,365 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,367 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,420 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,423 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,474 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,475 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,527 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,528 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,584 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,585 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,634 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,635 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,685 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,686 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,749 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,751 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,797 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,799 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,863 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,864 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,927 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,929 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:04,988 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:04,989 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,047 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,049 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,104 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,105 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,152 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,155 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,223 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,224 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,279 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,279 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,327 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,328 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,388 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,390 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,440 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,441 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,510 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,513 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,623 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,625 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,724 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,725 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,800 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,802 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,875 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,876 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:05,952 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:05,953 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,034 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,037 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,104 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,105 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,156 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,156 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,206 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,208 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,269 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,270 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,333 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,335 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,392 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,394 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,457 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,459 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,511 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,513 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,591 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,592 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,646 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,647 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,745 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,747 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,797 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,798 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,872 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,874 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:06,972 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:06,974 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,071 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,073 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,179 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,181 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,283 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,285 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,384 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,386 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,479 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,480 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,537 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,539 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,593 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,594 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,644 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,645 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,694 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,695 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,759 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,760 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,829 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,831 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,890 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,890 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:07,945 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:07,946 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,006 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,007 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,070 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,072 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,132 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,133 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,194 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,196 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,258 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,259 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,316 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,317 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,405 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,407 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,498 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,501 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,585 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,586 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,640 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,642 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,722 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,724 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,830 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,833 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:08,928 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:08,929 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,014 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,017 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,100 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,102 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,167 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,167 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,242 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,244 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,327 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,330 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,433 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,434 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,541 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,543 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,646 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,647 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,721 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,722 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,796 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,798 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,869 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,870 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:09,940 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:09,941 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,014 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,016 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,091 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,092 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,169 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,170 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,242 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,243 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,315 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,317 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,389 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,390 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,464 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,466 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,543 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,545 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,620 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,621 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,693 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,693 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,769 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,769 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,843 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,845 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,918 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,919 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:10,992 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:10,993 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,066 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,067 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,141 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,143 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,217 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,218 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,291 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,291 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,367 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,369 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,486 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,488 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,610 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,613 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,748 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,750 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,833 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,836 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:11,965 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:11,967 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,093 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,095 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,201 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,203 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,274 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,275 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,327 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,328 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,392 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,393 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,460 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,463 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,533 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,534 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,603 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,604 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,672 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,674 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,730 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,731 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,795 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,796 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,863 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,866 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,935 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,936 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:12,992 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:12,993 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,060 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,062 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,173 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,174 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,255 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,257 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,338 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,341 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,419 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,419 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,498 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,500 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,576 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,578 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,696 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,697 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,797 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,801 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,905 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,907 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:13,995 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:13,998 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,115 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,117 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,184 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,185 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,238 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,239 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,296 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,298 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,383 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,386 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,496 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,498 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,613 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,616 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,713 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,715 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,792 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,793 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:14,903 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:14,906 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,045 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,048 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,131 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,133 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,199 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,200 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,282 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,284 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,382 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,383 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,504 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,506 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,556 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,557 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,619 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,620 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,679 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,680 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,731 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,732 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,783 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,784 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,839 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,840 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,904 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,905 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:15,967 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:15,968 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,036 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,038 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,101 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,103 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,168 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,170 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,233 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,235 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,302 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,303 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,373 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,374 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,435 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,437 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,509 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,510 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,574 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,575 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,631 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,632 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,686 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,687 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,763 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,764 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,833 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,834 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,895 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,896 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:16,960 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:16,961 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,025 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,026 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,075 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,076 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,140 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,143 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,250 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,253 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,358 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,360 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,464 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,466 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,543 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,544 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,609 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,611 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,665 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,666 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,720 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,721 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,775 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,777 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,828 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,829 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,882 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,884 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,936 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,937 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:17,992 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:17,993 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,053 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,054 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,123 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,125 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,238 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,240 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,342 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,346 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,482 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,485 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,628 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,630 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,737 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,739 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,801 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,803 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,859 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,862 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:18,994 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:18,997 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,135 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,138 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,277 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,279 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,372 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,372 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,441 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,443 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,504 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,504 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,564 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,565 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,635 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,637 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,749 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,750 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,875 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,877 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:19,977 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:19,980 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,072 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,073 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,160 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,163 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,251 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,252 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,341 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,343 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,434 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,435 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,527 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,529 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,619 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,620 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,711 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,712 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,803 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,805 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,896 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,897 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:20,986 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:20,987 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,079 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,081 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,171 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,173 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,262 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,264 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,347 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,348 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,417 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,418 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,498 INFO  [Logger] Entered into getAttributeOptionsFromProperty() method. 
+2022-11-19 10:43:21,500 INFO  [Logger] Entered into providePropFilePath() method. 
+2022-11-19 10:43:21,617 INFO  [Logger] Entered into validateNewSiteFields() test. 
+2022-11-19 10:43:28,629 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:43:28,676 INFO  [Logger]  element is present 
+2022-11-19 10:43:28,883 INFO  [Logger] HOME element is present 
+2022-11-19 10:43:29,004 INFO  [Logger] SITES element is present 
+2022-11-19 10:43:29,100 INFO  [Logger] SITES element is present 
+2022-11-19 10:43:29,267 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:43:29,485 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:43:29,733 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:43:36,796 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:43:36,826 INFO  [Logger]  element is present 
+2022-11-19 10:43:36,975 INFO  [Logger] HOME element is present 
+2022-11-19 10:43:37,074 INFO  [Logger] SITES element is present 
+2022-11-19 10:43:37,147 INFO  [Logger] SITES element is present 
+2022-11-19 10:43:37,237 INFO  [Logger] TETHERED GROUPS element is present 
+2022-11-19 10:43:37,361 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:43:37,506 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:43:42,538 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:43:42,597 INFO  [Logger]  element is present 
+2022-11-19 10:43:42,799 INFO  [Logger] HOME element is present 
+2022-11-19 10:43:42,921 INFO  [Logger] SITES element is present 
+2022-11-19 10:43:42,949 INFO  [Logger] Entered into handleAddSite() method. 
+2022-11-19 10:43:43,212 INFO  [Logger]  element is present 
+2022-11-19 10:43:43,314 INFO  [Logger] Entered into controllerTypes() method. 
+2022-11-19 10:43:43,408 INFO  [Logger]  element is present 
+2022-11-19 10:43:46,686 INFO  [Logger] Entered into selectionAndVericationOfControllers() method. 
+2022-11-19 10:43:46,741 INFO  [Logger]  element is present 
+2022-11-19 10:43:49,964 INFO  [Logger] Entered into selectionAndVericationOfControllers() method. 
+2022-11-19 10:43:50,023 INFO  [Logger]  element is present 
+2022-11-19 10:43:54,356 INFO  [Logger] Entered into selectionAndVericationOfControllers() method. 
+2022-11-19 10:43:54,402 INFO  [Logger]  element is present 
+2022-11-19 10:43:59,703 INFO  [Logger] Entered into createTwoWireNewSite() test. 
+2022-11-19 10:44:06,705 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:44:06,750 INFO  [Logger]  element is present 
+2022-11-19 10:44:06,892 INFO  [Logger] HOME element is present 
+2022-11-19 10:44:06,995 INFO  [Logger] SITES element is present 
+2022-11-19 10:44:07,078 INFO  [Logger] SITES element is present 
+2022-11-19 10:44:07,174 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:44:07,299 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:44:07,510 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:44:14,542 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:44:14,584 INFO  [Logger]  element is present 
+2022-11-19 10:44:14,697 INFO  [Logger] HOME element is present 
+2022-11-19 10:44:14,808 INFO  [Logger] SITES element is present 
+2022-11-19 10:44:14,886 INFO  [Logger] SITES element is present 
+2022-11-19 10:44:15,008 INFO  [Logger] TETHERED GROUPS element is present 
+2022-11-19 10:44:15,142 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:44:15,292 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:44:20,329 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:44:20,393 INFO  [Logger]  element is present 
+2022-11-19 10:44:20,527 INFO  [Logger] HOME element is present 
+2022-11-19 10:44:20,663 INFO  [Logger] SITES element is present 
+2022-11-19 10:44:20,696 INFO  [Logger] Entered into createNeweSite method. 
+2022-11-19 10:44:20,764 INFO  [Logger] ADD SITE element is present 
+2022-11-19 10:44:21,057 INFO  [Logger]  element is present 
+2022-11-19 10:44:21,541 INFO  [Logger] Failed!! Unable to clear the text from a textbox.noOfZones 
+2022-11-19 10:44:21,552 INFO  [Logger] Failed!! Unable to enter a text into a textbox.noOfZones 
+2022-11-19 10:44:21,553 INFO  [Logger] Entered into selectTimeZone method. 
+2022-11-19 10:44:24,634 INFO  [Logger]  element is present 
+2022-11-19 10:44:24,744 INFO  [Logger] US/Alaska element is present 
+2022-11-19 10:44:24,931 INFO  [Logger] Entered into selectionAndVericationOfControllers() method. 
+2022-11-19 10:44:24,972 INFO  [Logger]  element is present 
+2022-11-19 10:44:29,234 INFO  [Logger] Entered into inputChanceOfRain() method. 
+2022-11-19 10:44:29,288 INFO  [Logger]  element is present 
+2022-11-19 10:44:29,521 INFO  [Logger] Entered into addressDetails() method. 
+2022-11-19 10:44:34,868 INFO  [Logger]  element is present 
+2022-11-19 10:44:39,999 INFO  [Logger] CANADA element is present 
+2022-11-19 10:44:40,305 INFO  [Logger] Entered into verifyCityBasedStateOrProvince() method. 
+2022-11-19 10:44:40,371 INFO  [Logger]  element is present 
+2022-11-19 10:44:41,031 INFO  [Logger] Alabama element is present 
+2022-11-19 10:44:46,765 INFO  [Logger]  element is present 
+2022-11-19 10:44:50,600 INFO  [Logger] Entered into selectWeatherSource() method. 
+2022-11-19 10:44:50,893 INFO  [Logger] Entered into rainSensor() method. 
+2022-11-19 10:44:55,960 INFO  [Logger]  element is present 
+2022-11-19 10:44:58,155 INFO  [Logger] Basic Saturation Sensor element is present 
+2022-11-19 10:44:58,265 INFO  [Logger] Entered into organisation() method. 
+2022-11-19 10:44:58,331 INFO  [Logger]  element is present 
+2022-11-19 10:44:58,592 INFO  [Logger] 19prashant.bangilwar@gmail.com element is present 
+2022-11-19 10:44:59,567 INFO  [Logger] Failed!! Unable to click on a button.div.submitBtn > button.btn-large.orange 
+2022-11-19 10:44:59,568 INFO  [Logger] Entered into createSiteFromGetLocation() method. 
+2022-11-19 10:44:59,780 INFO  [Logger] 19 element is present 
+2022-11-19 10:45:04,883 INFO  [Logger] Already all week is selected 
+2022-11-19 10:45:04,919 INFO  [Logger] ADD element is present 
+2022-11-19 10:45:10,007 INFO  [Logger] Entered into confirmModalBox() method. 
+2022-11-19 10:45:20,048 INFO  [Logger] Successfully added Site element is present 
+2022-11-19 10:45:27,119 INFO  [Logger] Entered into selectExistingSite() method. 
+2022-11-19 10:45:33,225 INFO  [Logger]  element is present 
+2022-11-19 10:45:33,498 INFO  [Logger] GREEFIELDS 342 element is present 
+2022-11-19 10:45:48,676 INFO  [Logger] Entered into addZoneWithSprayType() test. 
+2022-11-19 10:45:55,685 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:45:55,774 INFO  [Logger]  element is present 
+2022-11-19 10:45:56,030 INFO  [Logger] HOME element is present 
+2022-11-19 10:45:56,210 INFO  [Logger] SITES element is present 
+2022-11-19 10:45:56,372 INFO  [Logger] TETHERED GROUPS element is present 
+2022-11-19 10:45:56,640 INFO  [Logger] ALERTS element is present 
+2022-11-19 10:45:56,990 INFO  [Logger] SETTINGS element is present 
+2022-11-19 10:45:57,293 INFO  [Logger] REPORTS element is present 
+2022-11-19 10:46:07,326 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:46:07,427 INFO  [Logger]  element is present 
+2022-11-19 10:46:07,571 INFO  [Logger] HOME element is present 
+2022-11-19 10:46:07,688 INFO  [Logger] SITES element is present 
+2022-11-19 10:46:17,722 INFO  [Logger] Entered into selectExistingSite() method. 
+2022-11-19 10:46:23,769 INFO  [Logger]  element is present 
+2022-11-19 10:46:23,996 INFO  [Logger] GREEFIELDS 342 element is present 
+2022-11-19 10:46:39,134 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:46:49,217 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:46:49,242 INFO  [Logger] Entered into verifySoilTypeDetermineForSandyLoam() method. 
+2022-11-19 10:46:49,254 INFO  [Logger] Entered into continueFollowInstructions1stQuestion() method. 
+2022-11-19 10:46:59,681 INFO  [Logger] Failed!! Unable to wait on this element span.infoText.handSymbol > a 
+2022-11-19 10:46:59,696 INFO  [Logger] Failed!! Unable to click on an element.span.infoText.handSymbol > a 
+2022-11-19 10:47:10,178 INFO  [Logger] Failed!! Unable to wait on this element smrt-soil-type-questionnaire > mat-dialog-content > h3 
+2022-11-19 10:47:10,181 INFO  [Logger] Entered into actionButton() method. 
+2022-11-19 10:47:20,618 INFO  [Logger] Failed!! Unable to wait on this element mat-dialog-actions > button > span.mat-button-wrapper 
+2022-11-19 10:47:31,083 INFO  [Logger] Failed!! Unable to wait on this element smrt-soil-type-questionnaire > div > div.close > mat-icon 
+2022-11-19 10:47:31,098 INFO  [Logger] Failed!! Unable to click on an element.smrt-soil-type-questionnaire > div > div.close > mat-icon 
+2022-11-19 10:47:31,110 INFO  [Logger] Entered into addNewRegularWateringProgram() test. 
+2022-11-19 10:47:38,114 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:47:48,495 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:47:48,513 INFO  [Logger] Entered into addSmrtWateringProgram() test. 
+2022-11-19 10:47:48,516 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:47:58,913 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:47:58,930 INFO  [Logger] Entered into validateProgramWithSameConfig() test. 
+2022-11-19 10:48:01,945 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:48:12,342 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:48:12,355 INFO  [Logger] Entered into updateExistingProgram() test. 
+2022-11-19 10:48:12,357 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:48:22,394 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:48:22,420 INFO  [Logger] Entered into smartET_CreateNormalProgram() test. 
+2022-11-19 10:48:32,428 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:48:42,508 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:48:42,521 INFO  [Logger] Entered into smartET_verifyDefaultETValues() test. 
+2022-11-19 10:48:42,522 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:48:52,987 INFO  [Logger] Failed!! Unable to wait on this element mat-nav-list.mat-nav-list.mat-list-base.ng-tns-c355-0 > a > span > img 
+2022-11-19 10:48:53,003 INFO  [Logger] Entered into smartET_CycleSoak() test. 
+2022-11-19 10:48:53,009 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:49:00,155 INFO  [Logger] Entered into smartET_SmartStack() test. 
+2022-11-19 10:49:00,158 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:49:07,349 INFO  [Logger] Entered into runProgramForFullTime() test. 
+2022-11-19 10:49:17,357 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:49:24,522 INFO  [Logger] Entered into zonesDetails_StartTiggerFor2Minutes() test. 
+2022-11-19 10:49:24,529 INFO  [Logger] Entered into selectMenuIconInSite() method. 
+2022-11-19 10:49:31,677 INFO  [Logger] Entered into log_SearchByCatgeory() test. 
+2022-11-19 10:49:51,685 INFO  [Logger] Enter into navigateToModule() method 
+2022-11-19 10:50:01,858 INFO  [Logger] Failed!! Unable to wait on this element //mat-sidenav//mat-nav-list/a/span 
+2022-11-19 10:50:01,868 INFO  [Logger] Entered into log_handlePackets() test. 
+2022-11-19 10:50:01,872 INFO  [Logger] Entered into categoryOption() method. 

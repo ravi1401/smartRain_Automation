@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="RegressionSuite" parallel="tests" verbose="1">
+	<parameter name="browser" value="chrome" />
+	<parameter name="appUrl" value="https://uat.smartrain.net/#" />
+
+	<listeners>	
+		<listener class-name="com.lib.ExtentReportNG" />
+		<listener class-name="com.lib.TestNGCustomReportListener" />
+		<listener class-name="com.lib.RetryListener" />
+	</listeners>	
+
+	
+	
+	<test name="SmartRain Regression">
+		<parameter name="browser" value="chrome" />
+		<parameter name="appUrl" value="https://uat.smartrain.net/" />
+		<classes>
+			<class name="com.lib.BrowserIntializer" />
+			
+			<class name="smrtRain.home.GeneralTests" >
+			<methods>			
+					<include name= "loginWithValidCredentials"/>		
+			</methods>
+			</class>
+			
+			<!-- <class name="smrtRain.sites.SitesTests"/>
+			<class name="smrtRain.sites.TwoWireTests"/> -->
+			
+				<!-- 		
+				<class name="smrtRain.sites.SiteHomeTests"/>					
+				<class name="smrtRain.advanceConfig.AdvanceConfigTests"/> -->	
+				<class name="smrtRain.programs.ProgramTests"/>	
+				<class name="smrtRain.programs.SmartETTests"/>	
+			<class name="smrtRain.programs.RunProgramTests"/>	
+		
+				<!-- <class name="smrtRain.activityLogs.ActivityLogsTest"/>	
+				<class name="smrtRain.userManagement.UserManagementTests"/>	
+				<class name="smrtRain.settings.SiteNotificationTests"/>				
+				<class name="smrtRain.settings.BulkOperations"/>
+				<class name="smrtRain.home.NotesTest"/>	 -->
+				<!-- <class name="smrtRain.reports.ReportTest"/>	 -->
+				<!-- <class name="smrtRain.spanish.SpanishTests"/>	
+				<class name="smrtRain.spanish.SpanishAdv"/>	 -->
+				<!-- <class name="smrtRain.settings.FirmwareMaintenanceTests"/>			
+				<class name="smrtRain.sites.TearDownSites" /> -->
+				<!-- <class name="smrtRain.sites.CitiesTest"/>	 -->	
+			
+		</classes>
+	</test>
+
+
+	
+
+
+</suite> 

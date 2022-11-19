@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]" parallel="tests">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="appUrl" value="https://uat.smartrain.net/#"/>
+  <listeners>
+    <listener class-name="com.lib.ExtentReportNG"/>
+    <listener class-name="com.lib.TestNGCustomReportListener"/>
+    <listener class-name="com.lib.RetryListener"/>
+  </listeners>
+  <test thread-count="5" name="SmartRain Regression(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="appUrl" value="https://uat.smartrain.net/"/>
+    <classes>
+      <class name="smrtRain.programs.RunProgramTests">
+        <methods>
+          <include name="runSelectedZonesFor2Minutes"/>
+          <include name="openBrowser"/>
+          <include name="runProgramForFullTime"/>
+          <include name="runProgramForOtherConfiguredMinutes"/>
+          <include name="runProgram_ValidateAlertsOfOthers"/>
+          <include name="zonesDetails_StartTiggerFor2Minutes"/>
+          <include name="runZonesFor1Minute"/>
+        </methods>
+      </class> <!-- smrtRain.programs.RunProgramTests -->
+      <class name="smrtRain.programs.SmartETTests">
+        <methods>
+          <include name="smartStackWithMultipleRunTimes"/>
+          <include name="deleteZoneWhichAssignedToProgram"/>
+          <include name="smartET_SmartStack"/>
+          <include name="stack_UpdateProgramByAddingZones"/>
+          <include name="smartET_MultiRunTimes"/>
+          <include name="smartET_ProgamOff"/>
+          <include name="stack_ValidateOverTheMaxFlow"/>
+          <include name="smartET_ValidateIAandIAM"/>
+          <include name="smartET_GWLandMADBasedOnFC"/>
+          <include name="smartET_RainOverRide"/>
+          <include name="smartET_SmartStackWithCycleSoak"/>
+          <include name="smartEt_IncrmentOrDecrement"/>
+          <include name="openBrowser"/>
+          <include name="stack_ManualStackOn"/>
+        </methods>
+      </class> <!-- smrtRain.programs.SmartETTests -->
+      <class name="smrtRain.programs.ProgramTests">
+        <methods>
+          <include name="programOverlapStartOrEndTimes"/>
+          <include name="openBrowser"/>
+          <include name="validateProgramWithSameConfig"/>
+          <include name="program_ValidateSeasonalAdjustment"/>
+        </methods>
+      </class> <!-- smrtRain.programs.ProgramTests -->
+    </classes>
+  </test> <!-- SmartRain Regression(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
